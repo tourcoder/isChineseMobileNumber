@@ -1,0 +1,25 @@
+{
+  "name": "ischinesemobilenumber",
+  "version": "0.0.2",
+  "description": "Check if a number is a Chinese mobile phone number",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tourcoder/isChineseMobileNumber.git"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "chinese",
+    "mobile"
+  ],
+  "author": "TOURCODER.COM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tourcoder/isChineseMobileNumber/issues"
+  },
+  "homepage": "https://github.com/tourcoder/isChineseMobileNumber#readme"
+}
