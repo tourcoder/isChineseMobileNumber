@@ -26,4 +26,4 @@ It will return true or false.
 
 ### License
 
-MIT
+[MIT](LICENSE)
