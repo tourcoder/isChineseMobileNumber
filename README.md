@@ -2,6 +2,8 @@ isChineseMobileNumber
 ===
 Check if a number is a Chinese mobile phone number
 
+Tips: This package was actually on npmjs.org for a few years, but due to a mistake by npmjs, it was deleted and could not be restored. npmjs suggested that I should re-upload it.
+
 ### Usage
 
 First, install it from NPM
